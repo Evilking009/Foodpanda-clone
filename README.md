@@ -1,5 +1,5 @@
 # Foodpanda-clone
-The responsive food panda clone website created using HTML &amp; CSS
+The fully responsive food panda clone website created using HTML &amp; CSS
 
 # Technologies
 - HTML
